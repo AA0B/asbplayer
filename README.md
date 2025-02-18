@@ -98,8 +98,3 @@ Inspired by [asb-auto-subs](https://github.com/GodPepe7/asb-auto-subs) by GodPep
 ## License
 
 MIT License
-auto-subs](https://github.com/GodPepe7/asb-auto-subs) by GodPepe7.
-
-## License
-
-MIT License
